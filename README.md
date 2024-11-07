@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Joel-Hadley-School
-- 👀 I’m interested in programming in python
-- 🌱 I’m currently learning programming in python
-- 💞️ I’m looking to collaborate on school crap
-- 📫 How to reach me Email
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: programming in python
+- Hey, I’m Joel Hadley - This is my school account
+- I’m currently learning programming in python
+- I’m looking to collaborate on school crap
+- Pronouns: He/Him 
+- Fun fact: programming in python is hard
 
 <!---
 Joel-Hadley-School/Joel-Hadley-School is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
