@@ -1,4 +1,4 @@
-- Hey, I’m Joel Hadley - This is my school account
+- Hey, I’m Churro - This is my school account
 - I’m currently learning programming in python
 - I’m looking to collaborate on school crap
 - Pronouns: He/Him 
